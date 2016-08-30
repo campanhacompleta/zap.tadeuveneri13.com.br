@@ -1,6 +1,6 @@
 {
-  "name": "Zap da Lôra",
-  "description": "Zap da Lôra Web App powered by telegram",
+  "name": "Zap do Tadeu",
+  "description": "Zap do Tadeu Web App powered by telegram",
   "version": "0.5.5",
   "type": "privileged",
   "launch_path": "/index.html",

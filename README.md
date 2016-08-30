@@ -1,4 +1,4 @@
-## Zap da Lôra
+## Zap do Tadeu
 
 Powered by telegram API
 

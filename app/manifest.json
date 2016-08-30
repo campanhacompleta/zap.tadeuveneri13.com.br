@@ -1,8 +1,8 @@
 {
-  "name": " Zap da Lôra",
-  "description": " Zap da Lôra powered by Telegram Web App",
+  "name": "Zap do Tadeu",
+  "description": "Zap do Tadeu powered by Telegram Web App",
   "version": "0.5.5",
-  "short_name": "Zap da Lôra",
+  "short_name": "Zap do Tadeu",
   "manifest_version": 2,
   "app": {
     "background": {
