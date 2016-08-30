@@ -9,7 +9,7 @@
 
 
 var destaques = [
-  'luizianne13'
+  'TadeuVeneri13'
 ]
 
 /* Controllers */
